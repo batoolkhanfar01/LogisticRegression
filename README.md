@@ -1,1 +1,3 @@
-# logistic
+# logistic Regression from scratch
+
+#Installation:
